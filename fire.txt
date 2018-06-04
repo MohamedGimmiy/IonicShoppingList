@@ -1,0 +1,13 @@
+<script src="https://www.gstatic.com/firebasejs/5.0.4/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAWgrlXyY5f7CBIpOkd4sOF3lsOFBSLIq8",
+    authDomain: "shoppinglist-26a7d.firebaseapp.com",
+    databaseURL: "https://shoppinglist-26a7d.firebaseio.com",
+    projectId: "shoppinglist-26a7d",
+    storageBucket: "shoppinglist-26a7d.appspot.com",
+    messagingSenderId: "24921056438"
+  };
+  firebase.initializeApp(config);
+</script>
